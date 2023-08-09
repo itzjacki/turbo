@@ -9839,6 +9839,7 @@ dependencies = [
  "turbopath",
  "turborepo-api-client",
  "turborepo-cache",
+ "turborepo-ci",
  "turborepo-env",
  "turborepo-fs",
  "turborepo-lockfiles",
